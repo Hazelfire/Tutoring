@@ -13,3 +13,4 @@ Complete the entirety of chapter 4
 
 ### Useful links about tutoring session from the 16th of April
 - [Transforming Hyperbola](https://www.desmos.com/calculator/8o0yflpjef)
+- [Tangents of Circles](https://www.desmos.com/calculator/v0lbzd0knj)
