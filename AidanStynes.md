@@ -4,7 +4,7 @@ Year 11 Methods.
 
 Interested in math for Medicine and Sport Sciences! Requires a lot of math.
 
-Last tutoring session: 21th of April 4:00pm - 5:00pm
+Last tutoring session: 21st of April 4:00pm - 5:00pm
 
 Next tutoring session: 28th of April 4:00pm - 5:00pm
 

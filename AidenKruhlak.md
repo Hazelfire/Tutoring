@@ -6,7 +6,7 @@ Interested in math for Engineering.
 
 Last tutoring session: 21st of April 5:00pm - 6:00pm
 
-Next tutoring session: 28st of April 5:00pm - 6:00pm
+Next tutoring session: 28th of April 5:00pm - 6:00pm
 
 Charity: The Hunger Project Australia, (donated $60)
 
