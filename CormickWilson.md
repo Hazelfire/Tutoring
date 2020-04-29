@@ -1,3 +1,6 @@
+---
+layout: math
+---
 # Cormick Wilson's tutoring Home page
 
 Next tutoring session: 29th of April 4:00pm - 5:00pm
