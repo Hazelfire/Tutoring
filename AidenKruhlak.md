@@ -40,7 +40,7 @@ Looking mainly through your test results.
 
 Do not forget the $$a$$ in $$a(x-b)(x-c)$$
 
-To find the the vertex of a parabola, use $$\frac{-b}/{2a}$$
+To find the the vertex of a parabola, use $$\frac{-b}{2a}$$
 
  - [Parabola Vertex](https://www.desmos.com/calculator/xagm2cxlqu)
 
