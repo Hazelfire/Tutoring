@@ -7,11 +7,11 @@ Year 11 Methods.
 
 Interested in math for Engineering.
 
-Last tutoring session: 30st of April 6:00pm - 7:00pm
+Last tutoring session: 30th of April 6:00pm - 7:00pm
 
 Next tutoring session: 5th of May 5:00pm - 6:00pm
 
-Charity: The Hunger Project Australia, (donated $80)
+Charity: The Hunger Project Australia, (donated $100)
 
 Up to factorising cubics with long division
 
@@ -50,4 +50,8 @@ the following questions.
 
 Length of lines can be done with pythagoras $$\sqrt{a^2 + b^2}$$
 
+To determine intersections, simply equate one equation with the other. Intersections
+often are when one function will become larger than the other or vice versa.
 
+Make sure you come to me with good questions! I am a limited resource, so first
+have a go at the work that you have been allocated then bring it to me.

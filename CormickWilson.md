@@ -3,9 +3,9 @@ layout: math
 ---
 # Cormick Wilson's tutoring Home page
 
-Next tutoring session: 29th of April 4:00pm - 5:00pm
+Last tutoring session: 1st of May 4:00pm - 5:00pm
 
-Last tutoring session: 6th of May 4:00pm - 5:00pm
+Next tutoring session: 6th of May 4:00pm - 5:00pm
 
 Charity: [Against Malaria Foundation](https://www.againstmalaria.com/)(Donated $140)
 
@@ -24,3 +24,4 @@ divided by another polynomial
    form $$\frac{f'(x)}{f(x)}$$) then the integral is $$\ln{|f(x)|}$$
 2. **If the denominator is factorisable** Factorise it and use partial fractions
 3. **If the denominator is not factorisable** Use inverse tan
+
