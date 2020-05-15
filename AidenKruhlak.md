@@ -7,16 +7,16 @@ Year 11 Methods.
 
 Interested in math for Engineering.
 
-Last tutoring session: 30th of April 6:00pm - 7:00pm
+Last tutoring session: 14th of May 6:00pm - 7:00pm
 
-Next tutoring session: 5th of May 5:00pm - 6:00pm
+Next tutoring session: 21st of May 5:00pm - 6:00pm
 
-Charity: The Hunger Project Australia, (donated $100)
+Charity: The Hunger Project Australia, (donated $140)
 
 Up to factorising cubics with long division
 
 ### Goal for next tutoring session
-Goal to complete up to 6H.
+Goal to complete up to 4A.
 
 ### Notes for 21st of April
 
@@ -55,3 +55,21 @@ often are when one function will become larger than the other or vice versa.
 
 Make sure you come to me with good questions! I am a limited resource, so first
 have a go at the work that you have been allocated then bring it to me.
+
+### Notes for the 7th and 14th of May
+Congratulations on your test results!
+
+You're getting pretty good at transformations. Just remember, with $$f(x-h)+c$$
+is translated up c and to the right by h. Sometimes you do get the two mixed up.
+
+Sometimes I think that your are less confident about your answers than you should
+be. Be proud of your mistakes! They are definitely your greatest teachers. I
+really enjoy making mistakes and being wrong about things, because there's nothing
+that will make you understand a concept better than to be wrong about it.
+
+Just for reference:
+
+$$\frac{a}{\frac{b}{c}} = \frac{a}{\frac{b}{c}} \cdot \frac{c}{c} = \frac{ac}{b}$$
+
+If you ever want to model anything. You first get the general form (like $$y=mx+c$$
+for lines) then substitute in points. That's the process no matter what you are modelling.

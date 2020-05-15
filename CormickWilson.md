@@ -3,11 +3,11 @@ layout: math
 ---
 # Cormick Wilson's tutoring Home page
 
-Last tutoring session: 1st of May 4:00pm - 5:00pm
+Last tutoring session: 13th of May 4:00pm - 5:00pm
 
-Next tutoring session: 6th of May 4:00pm - 5:00pm
+Next tutoring session: 20th of May 4:00pm - 5:00pm
 
-Charity: [Against Malaria Foundation](https://www.againstmalaria.com/)(Donated $140)
+Charity: [Against Malaria Foundation](https://www.againstmalaria.com/)(Donated $150)
 
 Up to Integration by parts and linear substitution
 
@@ -25,3 +25,11 @@ divided by another polynomial
 2. **If the denominator is factorisable** Factorise it and use partial fractions
 3. **If the denominator is not factorisable** Use inverse tan
 
+### Notes from 8th of May 2020
+I remember things by understanding things. It's not that difficult... Everything
+sort of fits in with the rest of my world and is very practical. Ask why more
+often and you might have fun going down rabbit holes.
+
+I once saw a talk that said math was all about asking deep questions about simple
+things. I agree with this, the entire field of science is all about asking really
+detailed questions and always remaining curious.

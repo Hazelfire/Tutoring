@@ -1,8 +1,8 @@
 # Will Rofe's tutoring Home page
 
-Last tutoring session: 30th of April 4:00pm - 5:00pm
+Last tutoring session: 7th of April 4:00pm - 5:00pm
 
-Next tutoring session: 7th of April 4:00pm - 5:00pm
+Next tutoring session: 21st of April 4:00pm - 5:00pm
 
 Charity: [Beyond Blue](https://www.beyondblue.org.au/)(Donated $100)
 
@@ -27,3 +27,8 @@ You seem to be pretty good at inverse functions. Good job!
 
 I can't think of many good explanations of piecewise functions that would be
 better than you looking at examples and websites on your own. Good luck!
+
+### Notes from the 7th of May
+Good to hear that your SAC went well!
+
+Doing really well!

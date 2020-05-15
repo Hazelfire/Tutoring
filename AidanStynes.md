@@ -7,11 +7,11 @@ Year 11 Methods.
 
 Interested in math for Medicine and Sport Sciences! Requires a lot of math.
 
-Last tutoring session: 28th of April 4:00pm - 5:00pm
+Last tutoring session: 12th of May 4:00pm - 5:00pm
 
-Next tutoring session: 5th of April 4:00pm - 5:00pm
+Next tutoring session: 19th of May 4:00pm - 5:00pm
 
-Charity: Smith Foundation, (donated $40)
+Charity: Smith Foundation, (donated $60)
 
 Up to factoring cubics
 
@@ -41,3 +41,14 @@ be important in checking for errors and throwing out solutions that are not
 valid for your current problem.
 
 All in all, very impressed with your progress. Keep it up!
+
+### Notes for the 12th of May
+Good job with these matricies! Matricies are usually one of the topics for which
+people need a small push on but once they have got the skill they have the skill.
+So I have faith you'll do well.
+
+I have not much notes to make here. If you want to learn more about matricies, I
+can't recommend any resource better than trying them out in your textbook and 
+giving me questions that you've got.
+
+Keep up the good work!
