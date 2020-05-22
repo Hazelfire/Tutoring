@@ -7,16 +7,16 @@ Year 11 Methods.
 
 Interested in math for Engineering.
 
-Last tutoring session: 14th of May 6:00pm - 7:00pm
+Last tutoring session: 21sh of May 6:00pm - 7:00pm
 
-Next tutoring session: 21st of May 5:00pm - 6:00pm
+Next tutoring session: 28th of May 6:00pm - 7:00pm
 
-Charity: The Hunger Project Australia, (donated $140)
+Charity: The Hunger Project Australia, (donated $160)
 
 Up to factorising cubics with long division
 
 ### Goal for next tutoring session
-Goal to complete up to 4A.
+Goal to understand Domain and Ranges, and to find a question to send to Sam
 
 ### Notes for 21st of April
 
@@ -73,3 +73,27 @@ $$\frac{a}{\frac{b}{c}} = \frac{a}{\frac{b}{c}} \cdot \frac{c}{c} = \frac{ac}{b}
 
 If you ever want to model anything. You first get the general form (like $$y=mx+c$$
 for lines) then substitute in points. That's the process no matter what you are modelling.
+
+### Notes for the 21st of May
+You need much less help than you think you do. You could solve a lot of the
+equations that we did today if you just put your mind to it.
+
+I'm hoping that my little explanations of why the circle formula is what it is
+and such things are useful to you! It's always good to ask why. Have a go at asking
+why with me sometime! I do need to get better at some of my explanations as well.
+
+For the first part of this lesson, I was trying to talk about methods that are
+very much more general than you think they are. Asking why about your formulas
+and methods will help you understand the limitations and use cases of each of
+each of the methods. For instance, translating by substituting $$x$$ into $$x - a$$
+also works for $$y$$ (and even $$z$$ if you are going 3D).
+
+Furthermore, subsituting $x = 0$ will always find the $y$ intercepts.
+
+For the second part, we are looking into more sets! [Here's a link](https://www.mathsisfun.com/sets/number-types.html) 
+to all the sets you'll probably need to remember. Most mathematicians would be
+familiar with these (other than the symbol for Imaginary and Algebraic Numbers)
+R will be the set you will probably use the most.
+
+Please send me any questions you have about sets! Good job this week. I'm very 
+impressed.
