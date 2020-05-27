@@ -52,3 +52,22 @@ can't recommend any resource better than trying them out in your textbook and
 giving me questions that you've got.
 
 Keep up the good work!
+
+## Notes for 26th of May
+Logarithms!!!
+
+Remember not to confuse logarithms with roots, they are quite different things.
+But I think you shouldn't find that too difficult.
+
+I'm going to put a few interesting rules for logs here, and how they correlate
+with exponential rules you should be familiar with:
+
+- $$\log_a b + \log_a c = log_a (b \times c)$$ is the same idea as $$a^(b+c) = a^b \times a^c$$
+- $$\log_a b - \log_a c = log_a (\frac{b}{c})$$ is the same idea as $$a^(b-c) = \frac{a^b}{a^c}$$
+- $$\log_a b^c = c \cdot \log_a b$$ is the same idea is $$(a^b)^c = a^(b\cdot c)$$
+
+There are a couple more useful laws, but these are the main ones.
+
+I honestly don't think you really need much help with logs, I'm sure you are doing
+well on your own. Keep up the good work!
+
