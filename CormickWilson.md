@@ -3,13 +3,12 @@ layout: math
 ---
 # Cormick Wilson's tutoring Home page
 
-Last tutoring session: 20th of May 4:00pm - 5:00pm
+Last tutoring session: 27th of May 4:00pm - 5:00pm
 
-Next tutoring session: 27th of May 4:00pm - 5:00pm
+Next tutoring session: 3rd of June 4:00pm - 5:00pm
 
-Charity: [Against Malaria Foundation](https://www.againstmalaria.com/)(Donated $170)
+Charity: [Against Malaria Foundation](https://www.againstmalaria.com/)(Donated $190)
 
-Up to Integration by parts and linear substitution
 
 ### Goal for next tutoring session
 Ready for Specialist and Methods SAC
@@ -92,3 +91,19 @@ Things Sam dislikes when solving trig equations:
 4. More than 1 sin/cos function
 
 Getting rid of these things can help you solve these types of equations.
+
+### Notes for the 27th of May 2020
+Good luck for the Sac next Tuesday!
+
+Quartics require 5 peices of information to construct. Points are one piece of
+informaion, but gradients can be another as I showed you in this lesson. Using
+gradients.
+
+You should be able to work with $$\cos^{-1}$$ by now! Telling me the graph immediately!
+This is important, remember what the shapes and domains of all these graphs.
+I don't actually remember the shapes of these graphs, I just know what they are
+and therefore can derive what their shape is. When I was looking to graph this.
+I thought, $$\cos$$ of what equals 0? well $$\frac{\pi}{2}$$. so it goes through
+that point $$(0,\frac{\pi}{2})$$ and so on.
+
+Please send me questions you have.
