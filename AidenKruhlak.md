@@ -7,16 +7,15 @@ Year 11 Methods.
 
 Interested in math for Engineering.
 
-Last tutoring session: 21sh of May 6:00pm - 7:00pm
+Last tutoring session: 28th of May 6:00pm - 7:00pm
 
-Next tutoring session: 28th of May 6:00pm - 7:00pm
+Next tutoring session: 4th of June 6:00pm - 7:00pm
 
-Charity: The Hunger Project Australia, (donated $160)
+Charity: The Hunger Project Australia, (donated $180)
 
-Up to factorising cubics with long division
 
 ### Goal for next tutoring session
-Goal to understand Domain and Ranges, and to find a question to send to Sam
+Goal to send a question to Sam
 
 ### Notes for 21st of April
 
@@ -97,3 +96,8 @@ R will be the set you will probably use the most.
 
 Please send me any questions you have about sets! Good job this week. I'm very 
 impressed.
+
+### Notes for the 28th of May
+Good luck with domains and ranges and sets! You're doing pretty well so far,
+I don't think you'll have any trouble at all with sets. Seem like the only issues
+you come across is learning the notations, the concepts themselves are fine.

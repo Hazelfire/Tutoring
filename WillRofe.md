@@ -1,15 +1,15 @@
 # Will Rofe's tutoring Home page
 
-Last tutoring session: 21st of April 4:00pm - 5:00pm
+Last tutoring session: 28th of May 4:00pm - 5:00pm
 
-Next tutoring session: 28th of April 4:00pm - 5:00pm
+Next tutoring session: 4th of June 4:00pm - 5:00pm
 
-Charity: [Beyond Blue](https://www.beyondblue.org.au/)(Donated $110)
+Charity: [Beyond Blue](https://www.beyondblue.org.au/)(Donated $130)
 
 Up to Chapter 4, "A Gallery of Graphs"
 
 ### Goal for next tutoring session
-Understand piecewise functions
+Getting ready for your SAC
 
 ### Useful links about tutoring session from the 16th of April
 - [Transforming Hyperbola](https://www.desmos.com/calculator/8o0yflpjef)
@@ -52,4 +52,20 @@ often forgoting)
 
 Synthetic division! Google it, it's a fantastic tool.
 
+### Notes from 28th of May
+Good luck for your SAC next Tuesday!
 
+Functions are great use in math and in your casio calculator! There's a little
+bit of terminology with functions that sometimes get mixed up because math
+functions and computer functions (like the ones on your TI-Nspire) are usually 
+two almost the same but slightly different things.
+
+There are many functions on your TI-Nspire! And you can define more of them if you
+want. In fact I would highly reccomend it.
+
+Just be careful with variables (which includes functions) that you haven't cleared yet
+messing up future problems. If you define $$x$$ to be 3, then any time you use $$x$$
+it will be considered as 3 in your CAS. This is a massive issue and has caused
+many issues if you're not wary of it.
+
+Check out how to delete variables after you've used them [here](https://www.dummies.com/education/graphing-calculators/how-to-update-and-delete-variables-on-the-ti-nspire/).
