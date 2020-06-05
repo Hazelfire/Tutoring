@@ -7,11 +7,11 @@ Year 11 Methods.
 
 Interested in math for Engineering.
 
-Last tutoring session: 28th of May 6:00pm - 7:00pm
+Last tutoring session: 4th of June 6:00pm - 7:00pm
 
-Next tutoring session: 4th of June 6:00pm - 7:00pm
+Next tutoring session: 11th of June 6:00pm - 7:00pm
 
-Charity: The Hunger Project Australia, (donated $180)
+Charity: The Hunger Project Australia, (donated $200)
 
 
 ### Goal for next tutoring session

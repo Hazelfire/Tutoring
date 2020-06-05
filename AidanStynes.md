@@ -7,11 +7,11 @@ Year 11 Methods.
 
 Interested in math for Medicine and Sport Sciences! Requires a lot of math.
 
-Last tutoring session: 26th of May 4:00pm - 5:00pm
+Last tutoring session: 2nd of June 4:00pm - 5:00pm
 
-Next tutoring session: 2nd of June 4:00pm - 5:00pm
+Next tutoring session: 9nd of June 4:00pm - 5:00pm
 
-Charity: Smith Foundation, (donated $80)
+Charity: Smith Foundation, (donated $100)
 
 
 ### Goal for next tutoring session

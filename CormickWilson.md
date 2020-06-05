@@ -3,11 +3,11 @@ layout: math
 ---
 # Cormick Wilson's tutoring Home page
 
-Last tutoring session: 27th of May 4:00pm - 5:00pm
+Last tutoring session: 3rd of June 4:00pm - 5:00pm
 
-Next tutoring session: 3rd of June 4:00pm - 5:00pm
+Next tutoring session: 10th of June 4:00pm - 5:00pm
 
-Charity: [Against Malaria Foundation](https://www.againstmalaria.com/)(Donated $190)
+Charity: [Against Malaria Foundation](https://www.againstmalaria.com/)(Donated $210)
 
 
 ### Goal for next tutoring session

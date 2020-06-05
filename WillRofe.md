@@ -2,7 +2,7 @@
 
 Last tutoring session: 28th of May 4:00pm - 5:00pm
 
-Next tutoring session: 4th of June 4:00pm - 5:00pm
+Next tutoring session: 11th of June 4:00pm - 5:00pm
 
 Charity: [Beyond Blue](https://www.beyondblue.org.au/)(Donated $130)
 
