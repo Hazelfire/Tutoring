@@ -7,11 +7,11 @@ Year 11 Methods.
 
 Interested in math for Engineering.
 
-Last tutoring session: 4th of June 6:00pm - 7:00pm
+Last tutoring session: 28th of July 4:00pm - 5:00pm
 
-Next tutoring session: 11th of June 6:00pm - 7:00pm
+Next tutoring session: 4th of August 6:00pm - 5:00pm
 
-Charity: The Hunger Project Australia, (donated $200)
+Charity: The Hunger Project Australia, (donated $220)
 
 
 ### Goal for next tutoring session
@@ -101,3 +101,15 @@ impressed.
 Good luck with domains and ranges and sets! You're doing pretty well so far,
 I don't think you'll have any trouble at all with sets. Seem like the only issues
 you come across is learning the notations, the concepts themselves are fine.
+
+### Notes for the 28th of July
+Hey!
+
+You should always work in fractions! Always! You should have really good fractions
+skills by now. If you don't feel comfortable with fractions, push on that pain
+point and learn more. Simplifying fractions is already on notes for 7th and 14th
+of May.
+
+As for diffrentiation. Welcome to calculus! I can't give much here except I think
+you'll enjoy it and find it not too hard. If you have any questions, send them
+over!
