@@ -56,7 +56,7 @@ $$ -1 + 2 - 8 + 7 $$
 
 $$ 0 $$
 
-This means that $-1$ is a _solution_ and $$(x + 1)$$ is a _factor_. So, we both did
+This means that $$-1$$ is a _solution_ and $$(x + 1)$$ is a _factor_. So, we both did
 full [polynomial division](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-div/x2ec2f6f830c9fb89:quad-div-by-linear/v/polynomial-division) and [synthetic division](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-synthetic-division-of-polynomials/v/synthetic-division) (Khan academy is amazing, should help you if you are confused)
 
 If we divide them, we are left with $$x^2 + x + 7$$. So that means the factorized form is:
