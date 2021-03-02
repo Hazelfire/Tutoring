@@ -41,14 +41,14 @@ the cubic on the right. We can only do this by guessing! But our guesses can be
 informed by the [rational root theorem](https://en.wikipedia.org/wiki/Rational_root_theorem).
 
 The definition on the wikipedia page of this is very precise. But basically, after
-as much simplification has been done (like when we factored out the $x$) the
-root must be $\frac{p}{q}$, where $p$ is a factor of the last coefficient (7) and
-$q$ is a factor of the leading coefficient (1 in this case). Because the leading
+as much simplification has been done (like when we factored out the $$x$$) the
+root must be $$\frac{p}{q}$$, where $$p$$ is a factor of the last coefficient (7) and
+$$q$$ is a factor of the leading coefficient (1 in this case). Because the leading
 coefficient is 1, which only really has the factor 1. Our case is, as I said, 
 factors of the last term.
 
-These factors can be positive or negative, so we must test $-1$, $1$, $-7$ and $7$.
-Thankfully, on our second try, $-1$ seems to fit the bill.
+These factors can be positive or negative, so we must test $$-1$$, $$1$$, $$-7$$ and $$7$$.
+Thankfully, on our second try, $$-1$$ seems to fit the bill.
 
 $$ (-1)^3 + 2(-1)^2 + 8(-1) + 7 $$
 
@@ -56,10 +56,10 @@ $$ -1 + 2 - 8 + 7 $$
 
 $$ 0 $$
 
-This means that $-1$ is a _solution_ and $(x + 1)$ is a _factor_. So, we both did
+This means that $-1$ is a _solution_ and $$(x + 1)$$ is a _factor_. So, we both did
 full [polynomial division](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-div/x2ec2f6f830c9fb89:quad-div-by-linear/v/polynomial-division) and [synthetic division](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-synthetic-division-of-polynomials/v/synthetic-division) (Khan academy is amazing, should help you if you are confused)
 
-If we divide them, we are left with $x^2 + x + 7$. So that means the factorized form is:
+If we divide them, we are left with $$x^2 + x + 7$$. So that means the factorized form is:
 
 $$ x(x + 1)(x^2 + x + 7) $$
 
@@ -68,7 +68,7 @@ We did a couple more examples of this.
 Finally, [difference and sum of perfect cubes](https://www.purplemath.com/modules/specfact2.htm) is very simply a matter of identification
 and remembering the formulas. I despise remembering things in math! I prefer
 everything to be 'intuitive'. You can pretty easily verify these, but it would
-honestly be simply easier to remember.
+honestly be simpler to remember.
 
 $$ a^3 - b^3 = (a - b)(a^2+ab+b^2) $$
 
@@ -80,13 +80,13 @@ For instance, our example:
 
 $$ x^6 - 8 $$
 
-has no cube but $x^2 = a$ and $2 = b$ fit the bill.
+has no cube but $$x^2 = a$$ and $$2 = b$$ fit the bill.
 
 Another one to watch out for is expressions, such as
 
-$$ (x + 2)^3 - 27$$
+$$ (x + 2)^3 - 27  $$
 
-$x + 2 = a$ and $3 = b$ work, but mean you might have to simplify later down
+$$x + 2 = a$$ and $$3 = b$$ work, but mean you might have to simplify later down
 the track.
 
 If you have any questions throughout the week, feel free to email me! I don't
