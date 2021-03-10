@@ -1,6 +1,6 @@
 ---
 layout: math
-name: Mashal
+studentname: Mashal
 subject: Year 10 Math.
 times: Tuesdays 6:30pm - 7:30pm
 ---
