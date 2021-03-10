@@ -1,15 +1,9 @@
 ---
 layout: math
+name: Mashal
+subject: Year 10 Math.
+times: Tuesdays 6:30pm - 7:30pm
 ---
-# Mashal's tutoring Home page
-
-Year 10 Math.
-
-Last tutoring session: 2nd of March 6:30pm - 7:30pm
-
-Next tutoring session: 9nd of March 6:30pm - 7:30pm
-
-
 
 ### Notes for 2nd of March
 I am very impressed with your ability to pick up knowledge so quickly! Most of 
@@ -91,3 +85,33 @@ the track.
 
 If you have any questions throughout the week, feel free to email me! I don't
 charge extra for that. 
+
+### Notes for 9th of March
+Looking into fractions! You're doing a very good job.
+
+Remember, _we can never divide by 0_. If you want the working out for the problem
+I showed you so that you can show it to your friends, here it is:
+
+$$ x^2 - x^2 = x^2 - x^2 $$
+$$ x(x-x) = (x+x)(x-x) $$
+$$ x = (x + x) $$
+$$ x = 2x $$
+$$ 1 = 2 $$
+
+This is why $$\frac{a}{0}$$ is always undefined, even if $$a$$ is also 0!
+
+When $$a \neq 0$$, $$\frac{0}{a} = 0$$.
+
+But in the end, working with fractions is just an extension of your algebreic
+knowledge! Such as:
+
+$$ \frac{a}{b} = c  $$
+
+$$ a = bc $$
+
+This method helps turn fractions into multiplications, which is very useful.
+
+Simplifying fractions is a process of removing things that are on both the top
+and the bottom, just like factorizing!
+
+Nevertheless, I don't think you really need this, you are doing a fantastic job.
