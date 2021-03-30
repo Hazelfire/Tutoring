@@ -177,6 +177,7 @@ later two, then factor them both.
 $$2x^2 -10x + 3x - 15$$
 
 $$2x(x - 5) + 3(x - 5)$$
+
 $$(x - 5)(2x + 3)$$
 
 And we are done!
