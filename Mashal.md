@@ -115,3 +115,88 @@ Simplifying fractions is a process of removing things that are on both the top
 and the bottom, just like factorizing!
 
 Nevertheless, I don't think you really need this, you are doing a fantastic job.
+
+## Notes on Quadratics
+I know that we wanted to talk about quadratics!
+
+There are a couple of ways that one can solve a quadratic, and it is usually
+a trade off between solving only a subset of quadratics in a difficult way or
+a few quadratics in an easy way.
+
+Let's take a look at the easiest variety:
+
+$$ x^2 - 2x - 24 $$
+
+We've seen this one! The technique for solving these works if the coefficient of
+$$x^2$$ is $$1$$, and it has integer solutions.
+
+To find a solution to this one, we have to determine what two numbers (we will call
+them $$a$$ and $$b$$, _add_ together to make $$-2$$ and _multiply_ together to make
+$$-24$$.
+
+To work out what those numbers are, it's a good to recognize that $$-2$$ is negative,
+so the _larger_ solution will be negative. Then we can run through the _factors_
+of -24. That is, the only possible solutions are 1 and -24 (which don't add up),
+2 and -12, which fails again, 3 and -8 which adds up to -5, then 4 and -6, which
+finally does work!
+
+We then just put those solutions into this form:
+
+$$ (x + 4)(x - 6) $$
+
+And we are done! This is the easiest way to solve a quadratic, if you can do it
+that way.
+
+If you run through all the factors and you can't find any, then that means that
+it is either _unsolvable_ or it does not have integer solutions.
+
+To determine whether a quadratic is unsolvable, we use the following formula:
+
+$$ b^2 - 4ac $$
+
+This is called the _discriminant_, and is part of the larger _quadratic formula_
+
+$$ \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+
+If the discriminant is lower than 0, the equation is unsolvable.
+
+The next method of solving equations is when $$a$$ is not $$1$$, here's an example:
+
+$$2x^2 - 7x - 15$$
+
+Here, it's almost exactly the same process, but instead, we ask what two numbers
+add together to make $$-7$$, but multiply together to make $$2\times -15$$ or $$-30$$.
+We can do the same process, realizing that the larger number must be negative,
+and going through the factors.
+
+-30 and 1 doesn't work, 2 and -15 doesn't work, 3 and -10 however does!
+
+We then split the middle term into those, and then factor the first two and the
+later two, then factor them both.
+
+$$2x^2 -10x + 3x - 15$$
+
+$$2x(x - 5) + 3(x - 5)$$
+$$(x - 5)(2x + 3)$$
+
+And we are done!
+
+The final method for solving these equations is by recognition. If we can recognize
+that it is in the form of:
+
+$$a^2 - b^2$$
+
+Then we know the solution is
+
+$$(a+b)(a-b)$$
+
+It can be sometimes difficult to recognize whether it is in this form, for instance,
+all of these are in that form:
+
+$$x^2 - 9 = x^2 - (3)^2$$
+
+$$36a^2 - 9b^2 = (6a)^2 - (3b)^2$$
+
+$$x^2 - 2 = x^2 - (\sqrt{2})^2$$
+
+Hope this helps!
